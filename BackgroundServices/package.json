@@ -1,0 +1,22 @@
+{
+  "name": "backgroundservices",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "e": "^0.2.33",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "js": "^0.1.0",
+    "mongoose": "^8.16.1",
+    "node-cron": "^4.2.0",
+    "nodemailer": "^7.0.4"
+  }
+}
